@@ -22,7 +22,7 @@ any output snapshots or reports are stored here
 generating dataset
 ===================
 
-cd dataset/script
+cd dataset/script;
 python3 data_generator.py
 
 output dataset file name
