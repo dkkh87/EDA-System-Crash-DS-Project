@@ -5,7 +5,7 @@ import numpy as np
 np.random.seed(45)
  
 # Parameters
-num_rows = 1000000
+num_rows = 50000
 
 # 4 CORES, 8 GB RAM, 1Gbps (1000MB) 
 # Generate random data
