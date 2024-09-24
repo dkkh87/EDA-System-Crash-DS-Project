@@ -6,7 +6,7 @@ Objective: Gain insights from System events data and classify the system state (
 
 
 # Project folder structure
-========================
+==========================
 
 dataset folder 
 ==============
@@ -16,18 +16,18 @@ eda directoy
 ============
 has crash_data_eda.py script to analyze the csv file and helps in describing the data.
 
-how to generate dataset
-=======================
+generating dataset
+===================
 
 cd dataset/script
 python3 data_generator.py
 
-output file name
-===============
+output dataset file name
+=========================
 device_crash_dataset.csv
 
-how to run EDA script
-======================
+running EDA script
+==================
 
 python3 crash_data_eda.py
 
