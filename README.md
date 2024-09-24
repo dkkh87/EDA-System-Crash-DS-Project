@@ -4,9 +4,7 @@ This project analyzes the data set, describing various system characterstics at 
 
 Objective: Gain insights from System events data and classify the system state (Hanging or Not).
 
-
 # Project folder structure
-==========================
 
 dataset folder 
 ==============
