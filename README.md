@@ -3,7 +3,7 @@
 This data science project analyzes the data set describing various system characterstics collected at different time points.
 This aim to predict whether the system is likey to hang/crash or not.
 
-Objective: Gain insights from System events data and classify the system state (liekly to hang or not).
+Objective: Gain insights from System events data and classify the system state (likely to hang or not).
 
 # Project folder structure
 
