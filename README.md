@@ -6,13 +6,17 @@ Objective: Gain insights from System events data and classify the system state (
 
 # Project folder structure
 
-dataset folder 
-==============
+dataset directory 
+=================
 script that generates data and output csv file is stored in eda directory.
 
 eda directoy
 ============
 crash_data_eda.py script to analyze the csv file and helps in describing the data.
+
+reports directory
+=================
+any output snapshots or reports are stored here
 
 generating dataset
 ===================
